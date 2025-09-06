@@ -37,3 +37,6 @@ It allows creating, reading, updating, and deleting notes easily through REST en
 ##
 
 **👨‍💻 Author: Juan Moreira**
+
+## Status
+Project successfully completed ✅
